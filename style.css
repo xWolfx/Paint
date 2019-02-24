@@ -39,7 +39,7 @@ html {
     display: flex;
     align-items: center;
     padding: .5rem 3.75rem;
-    background-color: #ff8000;
+    background-color: rgb(255, 128, 0);
   }
   
   header .logo-small {
@@ -117,7 +117,7 @@ html {
   }
   
   #banner p {
-    color: white;
+    color: rgb(255, 255, 255);
     line-height: 1.5;
     font-size: 1.375rem;
   }
@@ -153,7 +153,7 @@ html {
     margin-bottom: 2.4375rem;
     line-height: 1;
     font-size: 2rem;
-    color: #ff8000;
+    color: rgb(255, 128, 0);
   }
   
   #color-guide .color {
@@ -188,13 +188,13 @@ html {
     margin-bottom: 1.25rem;
     font-size: 1.125rem;
     font-weight: bold;
-    color: #9b9b9b;
+    color: rgb(155, 155, 155);
   }
   
   .color .swatch {
     display: flex;
     height: 6.6875rem;
-    border: 10px solid #e6e6e6;
+    border: 10px solid rgb(255, 255, 255);
     margin-bottom: 1.25rem;
   }
   
@@ -204,7 +204,7 @@ html {
   
   .color .swatch > div {
     flex-grow: 1;
-    border-right: 10px solid #e6e6e6;
+    border-right: 10px solid rgb(255, 255, 255);
   }
   
   .color .swatch > div:last-child {
@@ -455,7 +455,7 @@ html {
     text-align: center;
     font-size: 1.125rem;
     line-height: 1.4;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   footer:before { /* Overlay */
@@ -486,7 +486,7 @@ html {
   footer .button {
     padding: 1.25rem 3.75rem;
     border-radius: 4px;
-    background-color: #ff8000;
+    background-color: rgb(255, 128, 0);
   }
   
   @media only screen and (max-width: 560px) {
