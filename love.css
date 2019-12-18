@@ -2,6 +2,10 @@ body {
   background-color: #000;
 }
 
+.love {
+  max-width: 100%;
+}
+
 .love img {
   overflow: auto;
   max-width: 100%;
@@ -16,6 +20,10 @@ body {
     display: block;
     margin: auto;
   }
+}
+
+.love1 {
+  width: 100%;
 }
 
 .love1 img {
