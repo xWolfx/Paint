@@ -3,6 +3,8 @@ body {
 }
 
 .love {
+  display: flex;
+  justify-content: center;
   max-width: 100%;
 }
 
@@ -23,6 +25,8 @@ body {
 }
 
 .love1 {
+  display: flex;
+  justify-content: center;
   width: 100%;
 }
 
