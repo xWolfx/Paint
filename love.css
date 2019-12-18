@@ -1,6 +1,4 @@
 .love {
-  background-attachment: fixed;
-  background-repeat: no-repeat;
   overflow: auto;
   max-width: 100%;
 }
@@ -17,8 +15,6 @@
 }
 
 .love1 {
-  background-attachment: fixed;
-  background-repeat: no-repeat;
   overflow: auto;
   max-width: 100%;
 }
