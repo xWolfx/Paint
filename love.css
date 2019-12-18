@@ -1,10 +1,10 @@
-.love {
+.love img {
   overflow: auto;
   max-width: 100%;
 }
 
 @media only screen and (max-width: 433px) {
-  .love {
+  .love img {
     background-attachment: fixed;
     background-repeat: no-repeat;
     max-width: 100%;
@@ -14,13 +14,13 @@
   }
 }
 
-.love1 {
+.love1 img {
   overflow: auto;
   max-width: 100%;
 }
 
 @media only screen and (max-width: 433px) {
-  .love1 {
+  .love1 img {
     background-attachment: fixed;
     background-repeat: no-repeat;
     max-width: 100%;
