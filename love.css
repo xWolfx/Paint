@@ -1,5 +1,4 @@
 .love {
-  background-image: url("/images/love.svg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-color: #000;
@@ -7,7 +6,6 @@
 }
 
 .love1 {
-  background-image: url("/images/love1.svg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-color: #000;
