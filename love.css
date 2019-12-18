@@ -9,6 +9,8 @@ body {
 }
 
 .love img {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   overflow: auto;
   max-width: 100%;
 }
@@ -17,10 +19,6 @@ body {
   .love img {
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    display: block;
-    margin: auto;
   }
 }
 
@@ -30,6 +28,9 @@ body {
 }
 
 .love1 img {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
   overflow: auto;
   max-width: 100%;
 }
@@ -38,9 +39,5 @@ body {
   .love1 img {
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    display: block;
-    margin: auto;
   }
 }
