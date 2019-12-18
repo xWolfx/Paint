@@ -5,6 +5,7 @@ body {
 .love {
   display: flex;
   justify-content: center;
+  margin-bottom: 3%;
   max-width: 100%;
 }
 
