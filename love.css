@@ -11,9 +11,8 @@ body {
 .love img {
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   overflow: auto;
-  max-width: 100%;
 }
 
 .love1 {
@@ -24,7 +23,6 @@ body {
 .love1 img {
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   overflow: auto;
-  max-width: 100%;
 }
