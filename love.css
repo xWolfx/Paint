@@ -5,9 +5,31 @@
   max-width: 100%;
 }
 
+@media only screen and (max-width: 433px) {
+  .love {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .love1 {
   background-attachment: fixed;
   background-repeat: no-repeat;
   overflow: auto;
   max-width: 100%;
+}
+
+@media only screen and (max-width: 433px) {
+  .love1 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
