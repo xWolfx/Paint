@@ -5,4 +5,8 @@ This is a sample website part of the Learn [*Learn CSS | Codecademy course*](htt
 If you want to know more you can [*Visit their forums*](https://discuss.codecademy.com) [*or their blog*](https://news.codecademy.com).
 
 For more information on CSS: 
-[*Read the Mozilla Documentation*](https://developer.mozilla.org/en-US/docs/Web/CSS) or visit [*W3C Website*](https://www.w3.org/Style/CSS/learning).
+[*Read the Mozilla Documentation*](https://developer.mozilla.org/en-US/docs/Web/CSS) or visit [*W3C Website*](https://www.w3.org/Style/CSS/learning
+
+[Testing image](/images/love.png)
+
+[Testing image1](/images/love1.png)
