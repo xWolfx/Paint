@@ -5,13 +5,13 @@ body {
 .love {
   display: flex;
   justify-content: center;
-  margin-bottom: 10%;
 }
 
 .love img {
   background-attachment: fixed;
   background-repeat: no-repeat;
   overflow: auto;
+  margin-bottom: 10%;
   max-width: 100%;
 }
 
